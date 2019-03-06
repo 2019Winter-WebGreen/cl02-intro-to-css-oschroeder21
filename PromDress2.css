@@ -1,0 +1,39 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color:cornflowerblue;
+    font-family: Arial, monospace;
+}
+
+h1 {
+    background-color:darkblue;
+    color:white;
+}
+
+p {
+    color:darkblue;
+}
+
+#whiteText {
+    color: white;
+    background-color:darkblue;
+}
+
+.redText {
+    color:firebrick;
+}
+
